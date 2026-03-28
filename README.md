@@ -1,8 +1,8 @@
 # OS-audit
 
 
-**Name:** Aleena Manesh I
-**Roll Number:** 24MIM10034
+**Name:** Aleena Manesh I ||
+**Roll Number:** 24MIM10034 ||
 **Chosen Software:** Git
 
 ## Project Description
