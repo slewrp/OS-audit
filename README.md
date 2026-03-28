@@ -7,7 +7,7 @@
 
 ## Project Description
 
-This project helps to analyze **Git** as an open-source software system, while also taking into account its origin, license, Linux footprint, ecosystem, and comparison with proprietary tools. It  includes five shell scripts demonstrating Linux and automation concepts.
+This project helps to analyze **Git** as an open-source software system, while also taking into account its origin, license, Linux footprint, ecosystem, and comparison with other proprietary tools. It  includes five shell scripts demonstrating Linux and automation concepts.
 
 ## Scripts
 
