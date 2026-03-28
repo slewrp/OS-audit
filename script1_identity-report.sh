@@ -12,7 +12,7 @@ date=$(date)
 distro=$(lsb_release -d | cut -f2)
 #display
 echo ""
-echo " Open Source Audit — $studname"
+echo " Open Source Audit- $studname"
 echo ""
 echo "Kernel : $kernel"
 echo "User : $username"
