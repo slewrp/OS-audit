@@ -5,7 +5,7 @@ key=${2:-"error"}
 count=0
 
 if [ ! -f "$file" ]; then
-    echo "File not found"
+    echo "Error: File not found"
     exit 1
 fi
 
