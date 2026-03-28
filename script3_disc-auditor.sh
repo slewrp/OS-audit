@@ -5,6 +5,7 @@ dirs=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 echo "Directory Audit Report"
 echo ""
 
+#loop through directories
 for d in "${dirs[@]}"
 do
     if [ -d "$d" ]; then
@@ -17,6 +18,8 @@ do
     fi
 done
 
+
+#check if configuration exists
 conf="$HOME/.gitconfig"
 
 if [ -f "$conf" ]; then
